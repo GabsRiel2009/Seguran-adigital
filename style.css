@@ -121,14 +121,6 @@ label{
 }
 .forca{
     height: 30px;
-    position: relative;const numeroSenha = document.querySelector('.parametro-senha__texto');
-let tamanhoSenha = 12;
-numeroSenha.textContent = tamanhoSenha;
-
-const botoes = document.querySelectorAll('.parametro-senha__botao');
-
-console.log(botoes)
-    bottom: 30px;
 }
 .fraca{
     width: 25%;
